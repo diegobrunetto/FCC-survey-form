@@ -1,6 +1,6 @@
 # FreeCodeCamp !!
 ## Resposive web design section
-### Third challenge - Landing page
+### Second challenge - Landing page
 
 ### Challenge description
 
